@@ -1,6 +1,6 @@
 // Result.js
 import React from "react";
-import styles from "./Result.module.css";
+import styles from "./result.module.css";
 
 export default function Result({ score, total }) {
     return (
