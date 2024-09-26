@@ -1,0 +1,12 @@
+.resultContainer {
+    text-align: center;
+    padding: 20px;
+}
+
+.resultContainer h2 {
+    font-size: 2em;
+}
+
+.resultContainer p {
+    font-size: 1.2em;
+}
